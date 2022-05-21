@@ -10,6 +10,12 @@
                          2) Mohit              (Mechanical Engineering)
                          3) Shubh Balodi        (Electronics and Communications Engineering)
                          4) Saurabh Singh      (Electrical Engineering)
+                         
+                                      
+                                      Problem Statment
+                                       
+                  * Room automation of IIT Roorkee Hostel, automating fans and lights.
+                  * Developing an end to end solution which can be controlled through mobile app .
                                                                              
                                                                              
                                                                              
